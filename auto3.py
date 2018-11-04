@@ -1,5 +1,5 @@
 # coding=utf8
-# 面向对象
+# 面向对象，爬取百度文库
 import re
 
 import time
