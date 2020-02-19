@@ -6,3 +6,4 @@ auto3.py可以爬取百度文库中的文档，图片，保存为txt
 
 test1
 test3
+test2
